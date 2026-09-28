@@ -3,14 +3,14 @@ Version 1.0.1
 Changelog
 
 Added:
-restored a cut sequence in a late part of the game
-added a new variant of late game enemy
+- restored a cut sequence in a late part of the game
+- added a new variant of late game enemy
 
 Fixes:
-fixed a bug where the player was able to walk through walls
-fixed a bug where the player wasn't considered dead when health fell below zero
-various inventory improvements
+- fixed a bug where the player was able to walk through walls
+- fixed a bug where the player wasn't considered dead when health fell below zero
+- various inventory improvements
 
 Localization:
-added support for Spanish language
-removed support for French language
+- added support for Spanish language
+- removed support for French language
